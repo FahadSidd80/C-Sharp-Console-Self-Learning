@@ -1,0 +1,16 @@
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\bin\Debug\net5.0\ConApp_Lang_Syntax.exe
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\bin\Debug\net5.0\ConApp_Lang_Syntax.deps.json
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\bin\Debug\net5.0\ConApp_Lang_Syntax.runtimeconfig.json
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\bin\Debug\net5.0\ConApp_Lang_Syntax.runtimeconfig.dev.json
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\bin\Debug\net5.0\ConApp_Lang_Syntax.dll
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\bin\Debug\net5.0\ConApp_Lang_Syntax.pdb
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\obj\Debug\net5.0\ConApp_Lang_Syntax.csproj.AssemblyReference.cache
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\obj\Debug\net5.0\ConApp_Lang_Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\obj\Debug\net5.0\ConApp_Lang_Syntax.AssemblyInfoInputs.cache
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\obj\Debug\net5.0\ConApp_Lang_Syntax.AssemblyInfo.cs
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\obj\Debug\net5.0\ConApp_Lang_Syntax.csproj.CoreCompileInputs.cache
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\obj\Debug\net5.0\ConApp_Lang_Syntax.dll
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\obj\Debug\net5.0\refint\ConApp_Lang_Syntax.dll
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\obj\Debug\net5.0\ConApp_Lang_Syntax.pdb
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\obj\Debug\net5.0\ConApp_Lang_Syntax.genruntimeconfig.cache
+C:\C#.NET_Program_01-02-22\ConApp_Lang_Syntax\ConApp_Lang_Syntax\obj\Debug\net5.0\ref\ConApp_Lang_Syntax.dll

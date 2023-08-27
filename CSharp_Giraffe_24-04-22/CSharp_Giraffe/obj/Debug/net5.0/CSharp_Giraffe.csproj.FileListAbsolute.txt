@@ -1,0 +1,16 @@
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\bin\Debug\net5.0\CSharp_Giraffe.exe
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\bin\Debug\net5.0\CSharp_Giraffe.deps.json
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\bin\Debug\net5.0\CSharp_Giraffe.runtimeconfig.json
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\bin\Debug\net5.0\CSharp_Giraffe.runtimeconfig.dev.json
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\bin\Debug\net5.0\CSharp_Giraffe.dll
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\bin\Debug\net5.0\CSharp_Giraffe.pdb
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\obj\Debug\net5.0\CSharp_Giraffe.csproj.AssemblyReference.cache
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\obj\Debug\net5.0\CSharp_Giraffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\obj\Debug\net5.0\CSharp_Giraffe.AssemblyInfoInputs.cache
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\obj\Debug\net5.0\CSharp_Giraffe.AssemblyInfo.cs
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\obj\Debug\net5.0\CSharp_Giraffe.csproj.CoreCompileInputs.cache
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\obj\Debug\net5.0\CSharp_Giraffe.dll
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\obj\Debug\net5.0\refint\CSharp_Giraffe.dll
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\obj\Debug\net5.0\CSharp_Giraffe.pdb
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\obj\Debug\net5.0\CSharp_Giraffe.genruntimeconfig.cache
+C:\C#.NET_Program_01-02-22\CSharp_Giraffe_24-04-22\CSharp_Giraffe\obj\Debug\net5.0\ref\CSharp_Giraffe.dll

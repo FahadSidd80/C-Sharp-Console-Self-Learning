@@ -1,0 +1,8 @@
+C:\C#.NET_Program_01-02-22\ConsoleApp_practice\ConsoleApp_practice\bin\Debug\ConsoleApp_practice.exe.config
+C:\C#.NET_Program_01-02-22\ConsoleApp_practice\ConsoleApp_practice\bin\Debug\ConsoleApp_practice.exe
+C:\C#.NET_Program_01-02-22\ConsoleApp_practice\ConsoleApp_practice\bin\Debug\ConsoleApp_practice.pdb
+C:\C#.NET_Program_01-02-22\ConsoleApp_practice\ConsoleApp_practice\obj\Debug\ConsoleApp_practice.csproj.AssemblyReference.cache
+C:\C#.NET_Program_01-02-22\ConsoleApp_practice\ConsoleApp_practice\obj\Debug\ConsoleApp_practice.csproj.SuggestedBindingRedirects.cache
+C:\C#.NET_Program_01-02-22\ConsoleApp_practice\ConsoleApp_practice\obj\Debug\ConsoleApp_practice.csproj.CoreCompileInputs.cache
+C:\C#.NET_Program_01-02-22\ConsoleApp_practice\ConsoleApp_practice\obj\Debug\ConsoleApp_practice.exe
+C:\C#.NET_Program_01-02-22\ConsoleApp_practice\ConsoleApp_practice\obj\Debug\ConsoleApp_practice.pdb

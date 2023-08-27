@@ -1,0 +1,16 @@
+C:\Users\2101917\Videos\C#.NET_Lectures\.NET_C#_Project_Code\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\bin\Debug\ConsoleApp_GFG_CSharp_Basics.exe.config
+C:\Users\2101917\Videos\C#.NET_Lectures\.NET_C#_Project_Code\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\bin\Debug\ConsoleApp_GFG_CSharp_Basics.exe
+C:\Users\2101917\Videos\C#.NET_Lectures\.NET_C#_Project_Code\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\bin\Debug\ConsoleApp_GFG_CSharp_Basics.pdb
+C:\Users\2101917\Videos\C#.NET_Lectures\.NET_C#_Project_Code\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\obj\Debug\ConsoleApp_GFG_CSharp_Basics.csproj.AssemblyReference.cache
+C:\Users\2101917\Videos\C#.NET_Lectures\.NET_C#_Project_Code\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\obj\Debug\ConsoleApp_GFG_CSharp_Basics.csproj.SuggestedBindingRedirects.cache
+C:\Users\2101917\Videos\C#.NET_Lectures\.NET_C#_Project_Code\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\obj\Debug\ConsoleApp_GFG_CSharp_Basics.csproj.CoreCompileInputs.cache
+C:\Users\2101917\Videos\C#.NET_Lectures\.NET_C#_Project_Code\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\obj\Debug\ConsoleApp_GFG_CSharp_Basics.exe
+C:\Users\2101917\Videos\C#.NET_Lectures\.NET_C#_Project_Code\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\obj\Debug\ConsoleApp_GFG_CSharp_Basics.pdb
+C:\C#_Console_Self_Learning\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\bin\Debug\ConsoleApp_GFG_CSharp_Basics.exe.config
+C:\C#_Console_Self_Learning\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\bin\Debug\ConsoleApp_GFG_CSharp_Basics.exe
+C:\C#_Console_Self_Learning\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\bin\Debug\ConsoleApp_GFG_CSharp_Basics.pdb
+C:\C#_Console_Self_Learning\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\obj\Debug\ConsoleApp_GFG_CSharp_Basics.csproj.AssemblyReference.cache
+C:\C#_Console_Self_Learning\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\obj\Debug\ConsoleApp_GFG_CSharp_Basics.csproj.SuggestedBindingRedirects.cache
+C:\C#_Console_Self_Learning\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\obj\Debug\ConsoleApp_GFG_CSharp_Basics.csproj.CoreCompileInputs.cache
+C:\C#_Console_Self_Learning\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\obj\Debug\ConsoleApp_GFG_CSharp_Basics.exe
+C:\C#_Console_Self_Learning\ConsoleApp_GFG_CSharp_Basics\ConsoleApp_GFG_CSharp_Basics\obj\Debug\ConsoleApp_GFG_CSharp_Basics.pdb

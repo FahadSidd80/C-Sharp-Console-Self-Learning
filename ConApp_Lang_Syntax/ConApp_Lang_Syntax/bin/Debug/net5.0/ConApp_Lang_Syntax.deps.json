@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConApp_Lang_Syntax/1.0.0": {
+        "runtime": {
+          "ConApp_Lang_Syntax.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConApp_Lang_Syntax/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

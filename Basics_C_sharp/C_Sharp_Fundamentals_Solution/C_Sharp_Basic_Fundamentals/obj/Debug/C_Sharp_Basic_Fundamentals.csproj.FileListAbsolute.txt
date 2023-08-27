@@ -1,0 +1,8 @@
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\C_Sharp_Fundamentals_Solution\C_Sharp_Basic_Fundamentals\bin\Debug\C_Sharp_Basic_Fundamentals.exe.config
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\C_Sharp_Fundamentals_Solution\C_Sharp_Basic_Fundamentals\bin\Debug\C_Sharp_Basic_Fundamentals.exe
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\C_Sharp_Fundamentals_Solution\C_Sharp_Basic_Fundamentals\bin\Debug\C_Sharp_Basic_Fundamentals.pdb
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\C_Sharp_Fundamentals_Solution\C_Sharp_Basic_Fundamentals\obj\Debug\C_Sharp_Basic_Fundamentals.csproj.AssemblyReference.cache
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\C_Sharp_Fundamentals_Solution\C_Sharp_Basic_Fundamentals\obj\Debug\C_Sharp_Basic_Fundamentals.csproj.SuggestedBindingRedirects.cache
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\C_Sharp_Fundamentals_Solution\C_Sharp_Basic_Fundamentals\obj\Debug\C_Sharp_Basic_Fundamentals.csproj.CoreCompileInputs.cache
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\C_Sharp_Fundamentals_Solution\C_Sharp_Basic_Fundamentals\obj\Debug\C_Sharp_Basic_Fundamentals.exe
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\C_Sharp_Fundamentals_Solution\C_Sharp_Basic_Fundamentals\obj\Debug\C_Sharp_Basic_Fundamentals.pdb

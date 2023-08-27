@@ -1,0 +1,8 @@
+C:\C#.NET_Program_01-02-22\C_sharp_W3C\C_sharp_W3C\bin\Debug\C_sharp_W3C.exe.config
+C:\C#.NET_Program_01-02-22\C_sharp_W3C\C_sharp_W3C\bin\Debug\C_sharp_W3C.exe
+C:\C#.NET_Program_01-02-22\C_sharp_W3C\C_sharp_W3C\bin\Debug\C_sharp_W3C.pdb
+C:\C#.NET_Program_01-02-22\C_sharp_W3C\C_sharp_W3C\obj\Debug\C_sharp_W3C.csproj.AssemblyReference.cache
+C:\C#.NET_Program_01-02-22\C_sharp_W3C\C_sharp_W3C\obj\Debug\C_sharp_W3C.csproj.SuggestedBindingRedirects.cache
+C:\C#.NET_Program_01-02-22\C_sharp_W3C\C_sharp_W3C\obj\Debug\C_sharp_W3C.csproj.CoreCompileInputs.cache
+C:\C#.NET_Program_01-02-22\C_sharp_W3C\C_sharp_W3C\obj\Debug\C_sharp_W3C.exe
+C:\C#.NET_Program_01-02-22\C_sharp_W3C\C_sharp_W3C\obj\Debug\C_sharp_W3C.pdb

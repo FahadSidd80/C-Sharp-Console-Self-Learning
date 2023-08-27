@@ -1,0 +1,5 @@
+C:\C#.NET_Program_01-02-22\ConsoleApp_CSharp_Harry\ConsoleApp_CSharp_Harry\obj\Debug\net5.0\ConsoleApp_CSharp_Harry.csproj.AssemblyReference.cache
+C:\C#.NET_Program_01-02-22\ConsoleApp_CSharp_Harry\ConsoleApp_CSharp_Harry\obj\Debug\net5.0\ConsoleApp_CSharp_Harry.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#.NET_Program_01-02-22\ConsoleApp_CSharp_Harry\ConsoleApp_CSharp_Harry\obj\Debug\net5.0\ConsoleApp_CSharp_Harry.AssemblyInfoInputs.cache
+C:\C#.NET_Program_01-02-22\ConsoleApp_CSharp_Harry\ConsoleApp_CSharp_Harry\obj\Debug\net5.0\ConsoleApp_CSharp_Harry.AssemblyInfo.cs
+C:\C#.NET_Program_01-02-22\ConsoleApp_CSharp_Harry\ConsoleApp_CSharp_Harry\obj\Debug\net5.0\ConsoleApp_CSharp_Harry.csproj.CoreCompileInputs.cache

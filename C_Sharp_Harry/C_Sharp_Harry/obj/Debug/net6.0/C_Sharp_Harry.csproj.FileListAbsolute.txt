@@ -1,0 +1,15 @@
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\bin\Debug\net6.0\C_Sharp_Harry.exe
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\bin\Debug\net6.0\C_Sharp_Harry.deps.json
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\bin\Debug\net6.0\C_Sharp_Harry.runtimeconfig.json
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\bin\Debug\net6.0\C_Sharp_Harry.dll
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\bin\Debug\net6.0\C_Sharp_Harry.pdb
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\obj\Debug\net6.0\C_Sharp_Harry.csproj.AssemblyReference.cache
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\obj\Debug\net6.0\C_Sharp_Harry.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\obj\Debug\net6.0\C_Sharp_Harry.AssemblyInfoInputs.cache
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\obj\Debug\net6.0\C_Sharp_Harry.AssemblyInfo.cs
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\obj\Debug\net6.0\C_Sharp_Harry.csproj.CoreCompileInputs.cache
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\obj\Debug\net6.0\C_Sharp_Harry.dll
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\obj\Debug\net6.0\refint\C_Sharp_Harry.dll
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\obj\Debug\net6.0\C_Sharp_Harry.pdb
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\obj\Debug\net6.0\C_Sharp_Harry.genruntimeconfig.cache
+C:\C#.NET_Program_01-02-22\C_Sharp_Harry\C_Sharp_Harry\obj\Debug\net6.0\ref\C_Sharp_Harry.dll

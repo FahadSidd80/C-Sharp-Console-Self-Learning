@@ -1,0 +1,8 @@
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\Basics_C_sharp\obj\Debug\Basics_C_sharp.csproj.AssemblyReference.cache
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\Basics_C_sharp\obj\Debug\Basics_C_sharp.csproj.SuggestedBindingRedirects.cache
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\Basics_C_sharp\obj\Debug\Basics_C_sharp.csproj.CoreCompileInputs.cache
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\Basics_C_sharp\bin\Debug\Basics_C_sharp.exe.config
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\Basics_C_sharp\bin\Debug\Basics_C_sharp.exe
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\Basics_C_sharp\bin\Debug\Basics_C_sharp.pdb
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\Basics_C_sharp\obj\Debug\Basics_C_sharp.exe
+C:\C#.NET_Program_01-02-22\Basics_C_sharp\Basics_C_sharp\obj\Debug\Basics_C_sharp.pdb
